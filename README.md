@@ -53,6 +53,8 @@ Analysis Contents
 
 1- Where are most data professionals from?
 
+![alt text](https://github.com/kingys22/data_science_salaries_analysis/blob/bc2b1ec1967eb338827511bd6d8c16f5cc3aca16/Count%20of%20prof%20pCountry.png)
+
 
 2- Exploring the remote work ratio.
 
