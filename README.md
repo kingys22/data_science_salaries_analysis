@@ -54,7 +54,6 @@ Analysis Contents
 1- Where are most data professionals from?
 
 
-
 2- Exploring the remote work ratio.
 
 3- Which job function do most data professionals serve as?
